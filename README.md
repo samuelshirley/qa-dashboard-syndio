@@ -15,6 +15,6 @@ To run cypress test headless run:
 
 - npm run cypress:run
 
-To open the cypress in chrome pleas run:
+To open the cypress headed in chrome run:
 
 - npm run cypress: open
